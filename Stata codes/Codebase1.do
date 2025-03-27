@@ -5,4 +5,4 @@ describe
 
 codebook
 
-// add your input
+//Bence create a table here of numeric variables
