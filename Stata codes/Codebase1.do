@@ -6,8 +6,8 @@ describe
 
 codebook
 
-<<<<<<< HEAD
+// Julius input - Data Cleaning
 //Bence create a table here of numeric variables
-=======
+
 // add your input
->>>>>>> bence
+
