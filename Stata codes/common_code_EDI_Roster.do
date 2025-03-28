@@ -14,7 +14,9 @@ input int index str36 name str36 fun_fact
 
 //Add names here - along with index
 
-6 Prakhar Saxena 
+6 "Prakhar Saxena"
+
+7 "Alice Edith Sumbatala"
 
 end 
 
