@@ -13,6 +13,12 @@ input int index str36 name str36 fun_fact
 3 "xyz" "B+"
 
 //Add names here - along with index
+4 "Bence Kocsis"
+
+
+
+
+
 
 
 4. "Patrick Minja"
