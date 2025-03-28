@@ -7,6 +7,7 @@ clear
 input int index str36 name str36 fun_fact
 1 "Patrick" "??"
 2 "Alvin" "??"
+3 "abc"
 //Add names here - along with index
 
 
