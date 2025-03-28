@@ -23,7 +23,7 @@ input int index str36 name str36 fun_fact
 
 7 "Alice Edith Sumbatala"
 8. "Julius Josephat"
-
+"Respichius Mitti"
 
 end 
 
