@@ -15,6 +15,7 @@ input int index str36 name str36 fun_fact
 //Add names here - along with index
 
 Alice Edith Sumbatala
+Respichius Mitti
 end 
 
 
