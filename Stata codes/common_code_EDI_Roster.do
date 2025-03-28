@@ -14,11 +14,15 @@ input int index str36 name str36 fun_fact
 
 //Add names here - along with index
 
+
+4. "Patrick Minja"
+=======
 4 "Brian" "Satire"
 
 6 "Prakhar Saxena"
 
 7 "Alice Edith Sumbatala"
+
 
 end 
 
