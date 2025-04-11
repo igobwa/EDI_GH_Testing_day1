@@ -1,12 +1,10 @@
-Alvin Igobwa Mugwe - Football
-artee Gungah - Reading
-Bence Kocsis - Carving
-Brian Kiprop - Reading
-Patrick Minja - Runner
-Prakhar-Run
-Julius Josephat - Football
-Mababa wawili
-Mitti - Riding
-Dan - Padel
-Alvin - basketball
-New addition
+Alvin Igobwa Mugwe,Football
+artee Gungah,Reading
+Bence Kocsis,Carving
+Brian Kiprop,Reading
+Patrick Minja,Runner
+Prakhar,Run
+Julius Josephat,Football
+Mitti,Riding
+Dan,Padel
+
