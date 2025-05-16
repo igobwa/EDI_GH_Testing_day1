@@ -11,3 +11,4 @@ Dan,Padel
 Ralala, Reading
 Mike Tyson, Boxing
 Max Verstappen, driver
+Anthony Edwards, Basketball
